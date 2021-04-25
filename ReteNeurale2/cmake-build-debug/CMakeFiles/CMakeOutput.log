@@ -1,0 +1,55 @@
+The system is: Linux - 4.4.0-53-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6f0c8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6f0c8.dir/build.make CMakeFiles/cmTC_6f0c8.dir/build
+make[1]: Entering directory '/media/Storage/Linux/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6f0c8.dir/testCCompiler.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_6f0c8.dir/testCCompiler.c.o   -c /home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_6f0c8
+/home/grafito/Clion/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6f0c8.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_6f0c8.dir/testCCompiler.c.o  -o cmTC_6f0c8 -rdynamic 
+make[1]: Leaving directory '/media/Storage/Linux/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f3b8b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f3b8b.dir/build.make CMakeFiles/cmTC_f3b8b.dir/build
+make[1]: Entering directory '/media/Storage/Linux/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f3b8b.dir/testCXXCompiler.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_f3b8b.dir/testCXXCompiler.cxx.o -c /home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_f3b8b
+/home/grafito/Clion/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f3b8b.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_f3b8b.dir/testCXXCompiler.cxx.o  -o cmTC_f3b8b -rdynamic 
+make[1]: Leaving directory '/media/Storage/Linux/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+

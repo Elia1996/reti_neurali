@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/reteNeurale4.dir/main.cpp.o  -o reteNeurale4 -rdynamic 

@@ -1,0 +1,3 @@
+/home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/grafito/Scrivania/materie/Programmazione/c-c++/ReteNeurale2/cmake-build-debug/CMakeFiles/ReteNeurale2.dir
